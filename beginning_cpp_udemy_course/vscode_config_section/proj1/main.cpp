@@ -1,10 +1,7 @@
-#include <
-
-
-
+#include <iostream>
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+    std::cout<< "i am from vscode!";
     return 0;
 }
