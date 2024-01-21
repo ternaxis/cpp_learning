@@ -35,4 +35,6 @@
 # Visual Studio
 .vs
 *.vcxproj
+*.vcxproj.user
+*.vcxproj.filter
 *.sln
